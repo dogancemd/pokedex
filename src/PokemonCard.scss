@@ -1,0 +1,29 @@
+@import "../node_modules/bootstrap/scss/bootstrap";
+
+@font-face {
+    font-family: "pixelFont";
+    font-weight: 900;
+    src: local("pixelFont") url("./fonts/pixelFont.woff") format("woff");
+  }
+
+.center-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.PokemonCard {
+    border: 1px solid black;
+    font-family: pixelFont;
+    opacity: 0.8;
+    border-radius: 20px;
+    margin: 1%;
+    
+}
+.PokemonCardImg{
+    object-fit: contain;
+    //clip-path: circle(50%);
+    //background-color: white;
+    width: 100%;
+    aspect-ratio: 1/1;
+    
+}
