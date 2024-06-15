@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/https.//dogancemduran.com/pokedex/static/css/main.1e269f8c.css",
-    "main.js": "/https.//dogancemduran.com/pokedex/static/js/main.85b3bf81.js",
-    "static/js/453.ac4c0547.chunk.js": "/https.//dogancemduran.com/pokedex/static/js/453.ac4c0547.chunk.js",
-    "static/media/pixelFont.ttf": "/https.//dogancemduran.com/pokedex/static/media/pixelFont.10cf96d54dcd9af0486c.ttf",
-    "index.html": "/https.//dogancemduran.com/pokedex/index.html",
-    "main.1e269f8c.css.map": "/https.//dogancemduran.com/pokedex/static/css/main.1e269f8c.css.map",
-    "main.85b3bf81.js.map": "/https.//dogancemduran.com/pokedex/static/js/main.85b3bf81.js.map",
-    "453.ac4c0547.chunk.js.map": "/https.//dogancemduran.com/pokedex/static/js/453.ac4c0547.chunk.js.map"
+    "main.css": "/https.//dogancemduran.com/static/css/main.a0886de3.css",
+    "main.js": "/https.//dogancemduran.com/static/js/main.7289e952.js",
+    "static/js/453.ac4c0547.chunk.js": "/https.//dogancemduran.com/static/js/453.ac4c0547.chunk.js",
+    "static/media/pixelFont.ttf": "/https.//dogancemduran.com/static/media/pixelFont.10cf96d54dcd9af0486c.ttf",
+    "index.html": "/https.//dogancemduran.com/index.html",
+    "main.a0886de3.css.map": "/https.//dogancemduran.com/static/css/main.a0886de3.css.map",
+    "main.7289e952.js.map": "/https.//dogancemduran.com/static/js/main.7289e952.js.map",
+    "453.ac4c0547.chunk.js.map": "/https.//dogancemduran.com/static/js/453.ac4c0547.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1e269f8c.css",
-    "static/js/main.85b3bf81.js"
+    "static/css/main.a0886de3.css",
+    "static/js/main.7289e952.js"
   ]
 }
