@@ -94,9 +94,9 @@ const PokemonCard = ({pokemon,Height,Width,setPokemon}) => {
                     <h1 className="PokemonStat">Total: {pokemon.Total}</h1>
                     <span className='StatBar' style={{width:(pokemon.Total*100/760)+"%",alignSelf:"auto"}}></span>
                 </div>
-                <div className="center-container" style={{}}>
-                    <img className="PokemonElementImage" src={process.env.PUBLIC_URL + "img/elements/" + type1 +".png"} alt=''></img>
-                    {type2 ? <img className="PokemonElementImage" src={process.env.PUBLIC_URL + "img/elements/" + type2 +".png"} alt=''></img> : ""}
+                <div className="center-container" style={{gap:"1%"}}>
+                    <img className="PokemonElementImage" src={process.env.PUBLIC_URL + "/img/elements/" + type1 +".png"} alt=''></img>
+                    {type2 ? <img className="PokemonElementImage" src={process.env.PUBLIC_URL + "/img/elements/" + type2 +".png"} alt=''></img> : ""}
                 </div>
                 <div style={{flexDirection:'row',display:"flex",justifyContent:"center",alignItems:"center",gap:"5%"}}>
                     {evolutionChain.map((pokemon)=>{

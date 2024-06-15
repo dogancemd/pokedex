@@ -36,7 +36,7 @@ const App = () => {
           </div>
         </div>
         <div>
-          <img src={process.env.PUBLIC_URL + "pokedex_bubble_2.png"}
+          <img src={process.env.PUBLIC_URL + "/pokedex_bubble_2.png"}
             style={
               {
                 position: "absolute",
