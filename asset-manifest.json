@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/https.//dogancemd.github.io/pokedex/static/css/main.04a95b72.css",
-    "main.js": "/https.//dogancemd.github.io/pokedex/static/js/main.5dd5ec19.js",
-    "static/js/453.ac4c0547.chunk.js": "/https.//dogancemd.github.io/pokedex/static/js/453.ac4c0547.chunk.js",
-    "static/media/pixelFont.ttf": "/https.//dogancemd.github.io/pokedex/static/media/pixelFont.10cf96d54dcd9af0486c.ttf",
-    "index.html": "/https.//dogancemd.github.io/pokedex/index.html",
-    "main.04a95b72.css.map": "/https.//dogancemd.github.io/pokedex/static/css/main.04a95b72.css.map",
-    "main.5dd5ec19.js.map": "/https.//dogancemd.github.io/pokedex/static/js/main.5dd5ec19.js.map",
-    "453.ac4c0547.chunk.js.map": "/https.//dogancemd.github.io/pokedex/static/js/453.ac4c0547.chunk.js.map"
+    "main.css": "/pokedex/static/css/main.794ab8e2.css",
+    "main.js": "/pokedex/static/js/main.c23aa55f.js",
+    "static/js/453.ac4c0547.chunk.js": "/pokedex/static/js/453.ac4c0547.chunk.js",
+    "static/media/pixelFont.ttf": "/pokedex/static/media/pixelFont.10cf96d54dcd9af0486c.ttf",
+    "index.html": "/pokedex/index.html",
+    "main.794ab8e2.css.map": "/pokedex/static/css/main.794ab8e2.css.map",
+    "main.c23aa55f.js.map": "/pokedex/static/js/main.c23aa55f.js.map",
+    "453.ac4c0547.chunk.js.map": "/pokedex/static/js/453.ac4c0547.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.04a95b72.css",
-    "static/js/main.5dd5ec19.js"
+    "static/css/main.794ab8e2.css",
+    "static/js/main.c23aa55f.js"
   ]
 }
