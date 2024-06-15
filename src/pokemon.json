@@ -8,11 +8,13 @@
         "HP": 45,
         "Attack": 49,
         "Defense": 49,
-        "Sp. Atk": 65,
-        "Sp. Def": 65,
+        "SpAtk": 65,
+        "SpDef": 65,
         "Speed": 45,
         "Generation": 1,
-        "Legendary": false
+        "Legendary": false,
+        "Previous": null,
+        "Next": "Ivysaur"
     },
     {
         "No": 2,
@@ -23,11 +25,13 @@
         "HP": 60,
         "Attack": 62,
         "Defense": 63,
-        "Sp. Atk": 80,
-        "Sp. Def": 80,
+        "SpAtk": 80,
+        "SpDef": 80,
         "Speed": 60,
         "Generation": 1,
-        "Legendary": false
+        "Legendary": false,
+        "Previous": "Bulbasaur",
+        "Next": "Venusaur"
     },
     {
         "No": 3,
@@ -38,11 +42,13 @@
         "HP": 80,
         "Attack": 82,
         "Defense": 83,
-        "Sp. Atk": 100,
-        "Sp. Def": 100,
+        "SpAtk": 100,
+        "SpDef": 100,
         "Speed": 80,
         "Generation": 1,
-        "Legendary": false
+        "Legendary": false,
+        "Previous": "Ivysaur",
+        "Next": null
     },
     {
         "No": 4,
@@ -53,11 +59,13 @@
         "HP": 39,
         "Attack": 52,
         "Defense": 43,
-        "Sp. Atk": 60,
-        "Sp. Def": 50,
+        "SpAtk": 60,
+        "SpDef": 50,
         "Speed": 65,
         "Generation": 1,
-        "Legendary": false
+        "Legendary": false,
+        "Previous": null,
+        "Next": "Charmeleon"
     },
     {
         "No": 5,
@@ -68,11 +76,13 @@
         "HP": 58,
         "Attack": 64,
         "Defense": 58,
-        "Sp. Atk": 80,
-        "Sp. Def": 65,
+        "SpAtk": 80,
+        "SpDef": 65,
         "Speed": 80,
         "Generation": 1,
-        "Legendary": false
+        "Legendary": false,
+        "Previous": "Charmander",
+        "Next": "Charizard"
     },
     {
         "No": 6,
@@ -83,11 +93,13 @@
         "HP": 78,
         "Attack": 84,
         "Defense": 78,
-        "Sp. Atk": 109,
-        "Sp. Def": 85,
+        "SpAtk": 109,
+        "SpDef": 85,
         "Speed": 100,
         "Generation": 1,
-        "Legendary": false
+        "Legendary": false,
+        "Previous": "Charmeleon",
+        "Next": null
     },
     {
         "No": 7,
@@ -98,11 +110,13 @@
         "HP": 44,
         "Attack": 48,
         "Defense": 65,
-        "Sp. Atk": 50,
-        "Sp. Def": 64,
+        "SpAtk": 50,
+        "SpDef": 64,
         "Speed": 43,
         "Generation": 1,
-        "Legendary": false
+        "Legendary": false,
+        "Previous": null,
+        "Next": "Wartortle"
     },
     {
         "No": 8,
@@ -113,11 +127,13 @@
         "HP": 59,
         "Attack": 63,
         "Defense": 80,
-        "Sp. Atk": 65,
-        "Sp. Def": 80,
+        "SpAtk": 65,
+        "SpDef": 80,
         "Speed": 58,
         "Generation": 1,
-        "Legendary": false
+        "Legendary": false,
+        "Previous": "Squirtle",
+        "Next": "Blastoise"
     },
     {
         "No": 9,
@@ -128,11 +144,13 @@
         "HP": 79,
         "Attack": 83,
         "Defense": 100,
-        "Sp. Atk": 85,
-        "Sp. Def": 105,
+        "SpAtk": 85,
+        "SpDef": 105,
         "Speed": 78,
         "Generation": 1,
-        "Legendary": false
+        "Legendary": false,
+        "Previous": "Wartortle",
+        "Next": null
     },
     {
         "No": 10,
@@ -143,11 +161,13 @@
         "HP": 45,
         "Attack": 30,
         "Defense": 35,
-        "Sp. Atk": 20,
-        "Sp. Def": 20,
+        "SpAtk": 20,
+        "SpDef": 20,
         "Speed": 45,
         "Generation": 1,
-        "Legendary": false
+        "Legendary": false,
+        "Previous": null,
+        "Next": "Metapod"
     },
     {
         "No": 11,
@@ -158,11 +178,13 @@
         "HP": 50,
         "Attack": 20,
         "Defense": 55,
-        "Sp. Atk": 25,
-        "Sp. Def": 25,
+        "SpAtk": 25,
+        "SpDef": 25,
         "Speed": 30,
         "Generation": 1,
-        "Legendary": false
+        "Legendary": false,
+        "Previous": "Caterpie",
+        "Next": "Butterfree"
     },
     {
         "No": 12,
@@ -173,11 +195,13 @@
         "HP": 60,
         "Attack": 45,
         "Defense": 50,
-        "Sp. Atk": 90,
-        "Sp. Def": 80,
+        "SpAtk": 90,
+        "SpDef": 80,
         "Speed": 70,
         "Generation": 1,
-        "Legendary": false
+        "Legendary": false,
+        "Previous": "Metapod",
+        "Next": null
     },
     {
         "No": 13,
@@ -188,11 +212,13 @@
         "HP": 40,
         "Attack": 35,
         "Defense": 30,
-        "Sp. Atk": 20,
-        "Sp. Def": 20,
+        "SpAtk": 20,
+        "SpDef": 20,
         "Speed": 50,
         "Generation": 1,
-        "Legendary": false
+        "Legendary": false,
+        "Previous": null,
+        "Next": "Kakuna"
     },
     {
         "No": 14,
@@ -203,11 +229,13 @@
         "HP": 45,
         "Attack": 25,
         "Defense": 50,
-        "Sp. Atk": 25,
-        "Sp. Def": 25,
+        "SpAtk": 25,
+        "SpDef": 25,
         "Speed": 35,
         "Generation": 1,
-        "Legendary": false
+        "Legendary": false,
+        "Previous": "Weedle",
+        "Next": "Beedrill"
     },
     {
         "No": 15,
@@ -218,11 +246,13 @@
         "HP": 65,
         "Attack": 90,
         "Defense": 40,
-        "Sp. Atk": 45,
-        "Sp. Def": 80,
+        "SpAtk": 45,
+        "SpDef": 80,
         "Speed": 75,
         "Generation": 1,
-        "Legendary": false
+        "Legendary": false,
+        "Previous": "Kakuna",
+        "Next": null
     },
     {
         "No": 16,
@@ -233,11 +263,13 @@
         "HP": 40,
         "Attack": 45,
         "Defense": 40,
-        "Sp. Atk": 35,
-        "Sp. Def": 35,
+        "SpAtk": 35,
+        "SpDef": 35,
         "Speed": 56,
         "Generation": 1,
-        "Legendary": false
+        "Legendary": false,
+        "Previous": null,
+        "Next": "Pidgeotto"
     },
     {
         "No": 17,
@@ -248,11 +280,13 @@
         "HP": 63,
         "Attack": 60,
         "Defense": 55,
-        "Sp. Atk": 50,
-        "Sp. Def": 50,
+        "SpAtk": 50,
+        "SpDef": 50,
         "Speed": 71,
         "Generation": 1,
-        "Legendary": false
+        "Legendary": false,
+        "Previous": "Pidgey",
+        "Next": "Pidgeot"
     },
     {
         "No": 18,
@@ -263,11 +297,13 @@
         "HP": 83,
         "Attack": 80,
         "Defense": 75,
-        "Sp. Atk": 70,
-        "Sp. Def": 70,
+        "SpAtk": 70,
+        "SpDef": 70,
         "Speed": 101,
         "Generation": 1,
-        "Legendary": false
+        "Legendary": false,
+        "Previous": "Pidgeotto",
+        "Next": null
     },
     {
         "No": 19,
@@ -278,11 +314,13 @@
         "HP": 30,
         "Attack": 56,
         "Defense": 35,
-        "Sp. Atk": 25,
-        "Sp. Def": 35,
+        "SpAtk": 25,
+        "SpDef": 35,
         "Speed": 72,
         "Generation": 1,
-        "Legendary": false
+        "Legendary": false,
+        "Previous": null,
+        "Next": "Raticate"
     },
     {
         "No": 20,
@@ -293,11 +331,13 @@
         "HP": 55,
         "Attack": 81,
         "Defense": 60,
-        "Sp. Atk": 50,
-        "Sp. Def": 70,
+        "SpAtk": 50,
+        "SpDef": 70,
         "Speed": 97,
         "Generation": 1,
-        "Legendary": false
+        "Legendary": false,
+        "Previous": "Rattata",
+        "Next": null
     },
     {
         "No": 21,
@@ -308,11 +348,13 @@
         "HP": 40,
         "Attack": 60,
         "Defense": 30,
-        "Sp. Atk": 31,
-        "Sp. Def": 31,
+        "SpAtk": 31,
+        "SpDef": 31,
         "Speed": 70,
         "Generation": 1,
-        "Legendary": false
+        "Legendary": false,
+        "Previous": null,
+        "Next": "Fearow"
     },
     {
         "No": 22,
@@ -323,11 +365,13 @@
         "HP": 65,
         "Attack": 90,
         "Defense": 65,
-        "Sp. Atk": 61,
-        "Sp. Def": 61,
+        "SpAtk": 61,
+        "SpDef": 61,
         "Speed": 100,
         "Generation": 1,
-        "Legendary": false
+        "Legendary": false,
+        "Previous": "Spearow",
+        "Next": null
     },
     {
         "No": 23,
@@ -338,11 +382,13 @@
         "HP": 35,
         "Attack": 60,
         "Defense": 44,
-        "Sp. Atk": 40,
-        "Sp. Def": 54,
+        "SpAtk": 40,
+        "SpDef": 54,
         "Speed": 55,
         "Generation": 1,
-        "Legendary": false
+        "Legendary": false,
+        "Previous": null,
+        "Next": "Arbok"
     },
     {
         "No": 24,
@@ -353,11 +399,13 @@
         "HP": 60,
         "Attack": 85,
         "Defense": 69,
-        "Sp. Atk": 65,
-        "Sp. Def": 79,
+        "SpAtk": 65,
+        "SpDef": 79,
         "Speed": 80,
         "Generation": 1,
-        "Legendary": false
+        "Legendary": false,
+        "Previous": "Ekans",
+        "Next": null
     },
     {
         "No": 25,
@@ -368,11 +416,13 @@
         "HP": 35,
         "Attack": 55,
         "Defense": 40,
-        "Sp. Atk": 50,
-        "Sp. Def": 50,
+        "SpAtk": 50,
+        "SpDef": 50,
         "Speed": 90,
         "Generation": 1,
-        "Legendary": false
+        "Legendary": false,
+        "Previous": null,
+        "Next": "Raichu"
     },
     {
         "No": 26,
@@ -383,11 +433,13 @@
         "HP": 60,
         "Attack": 90,
         "Defense": 55,
-        "Sp. Atk": 90,
-        "Sp. Def": 80,
+        "SpAtk": 90,
+        "SpDef": 80,
         "Speed": 110,
         "Generation": 1,
-        "Legendary": false
+        "Legendary": false,
+        "Previous": "Pikachu",
+        "Next": null
     },
     {
         "No": 27,
@@ -398,11 +450,13 @@
         "HP": 50,
         "Attack": 75,
         "Defense": 85,
-        "Sp. Atk": 20,
-        "Sp. Def": 30,
+        "SpAtk": 20,
+        "SpDef": 30,
         "Speed": 40,
         "Generation": 1,
-        "Legendary": false
+        "Legendary": false,
+        "Previous": null,
+        "Next": "Sandslash"
     },
     {
         "No": 28,
@@ -413,11 +467,13 @@
         "HP": 75,
         "Attack": 100,
         "Defense": 110,
-        "Sp. Atk": 45,
-        "Sp. Def": 55,
+        "SpAtk": 45,
+        "SpDef": 55,
         "Speed": 65,
         "Generation": 1,
-        "Legendary": false
+        "Legendary": false,
+        "Previous": "Sandshrew",
+        "Next": null
     },
     {
         "No": 29,
@@ -428,11 +484,13 @@
         "HP": 55,
         "Attack": 47,
         "Defense": 52,
-        "Sp. Atk": 40,
-        "Sp. Def": 40,
+        "SpAtk": 40,
+        "SpDef": 40,
         "Speed": 41,
         "Generation": 1,
-        "Legendary": false
+        "Legendary": false,
+        "Previous": null,
+        "Next": "Nidorina"
     },
     {
         "No": 30,
@@ -443,11 +501,13 @@
         "HP": 70,
         "Attack": 62,
         "Defense": 67,
-        "Sp. Atk": 55,
-        "Sp. Def": 55,
+        "SpAtk": 55,
+        "SpDef": 55,
         "Speed": 56,
         "Generation": 1,
-        "Legendary": false
+        "Legendary": false,
+        "Previous": "Nidoran-f",
+        "Next": "Nidoqueen"
     },
     {
         "No": 31,
@@ -458,11 +518,13 @@
         "HP": 90,
         "Attack": 92,
         "Defense": 87,
-        "Sp. Atk": 75,
-        "Sp. Def": 85,
+        "SpAtk": 75,
+        "SpDef": 85,
         "Speed": 76,
         "Generation": 1,
-        "Legendary": false
+        "Legendary": false,
+        "Previous": "Nidorina",
+        "Next": null
     },
     {
         "No": 32,
@@ -473,11 +535,13 @@
         "HP": 46,
         "Attack": 57,
         "Defense": 40,
-        "Sp. Atk": 40,
-        "Sp. Def": 40,
+        "SpAtk": 40,
+        "SpDef": 40,
         "Speed": 50,
         "Generation": 1,
-        "Legendary": false
+        "Legendary": false,
+        "Previous": null,
+        "Next": "Nidorino"
     },
     {
         "No": 33,
@@ -488,11 +552,13 @@
         "HP": 61,
         "Attack": 72,
         "Defense": 57,
-        "Sp. Atk": 55,
-        "Sp. Def": 55,
+        "SpAtk": 55,
+        "SpDef": 55,
         "Speed": 65,
         "Generation": 1,
-        "Legendary": false
+        "Legendary": false,
+        "Previous": "Nidoran-m",
+        "Next": "Nidoking"
     },
     {
         "No": 34,
@@ -503,11 +569,13 @@
         "HP": 81,
         "Attack": 102,
         "Defense": 77,
-        "Sp. Atk": 85,
-        "Sp. Def": 75,
+        "SpAtk": 85,
+        "SpDef": 75,
         "Speed": 85,
         "Generation": 1,
-        "Legendary": false
+        "Legendary": false,
+        "Previous": "Nidorino",
+        "Next": null
     },
     {
         "No": 35,
@@ -518,11 +586,13 @@
         "HP": 70,
         "Attack": 45,
         "Defense": 48,
-        "Sp. Atk": 60,
-        "Sp. Def": 65,
+        "SpAtk": 60,
+        "SpDef": 65,
         "Speed": 35,
         "Generation": 1,
-        "Legendary": false
+        "Legendary": false,
+        "Previous": null,
+        "Next": "Clefable"
     },
     {
         "No": 36,
@@ -533,11 +603,13 @@
         "HP": 95,
         "Attack": 70,
         "Defense": 73,
-        "Sp. Atk": 95,
-        "Sp. Def": 90,
+        "SpAtk": 95,
+        "SpDef": 90,
         "Speed": 60,
         "Generation": 1,
-        "Legendary": false
+        "Legendary": false,
+        "Previous": "Clefairy",
+        "Next": null
     },
     {
         "No": 37,
@@ -548,11 +620,13 @@
         "HP": 38,
         "Attack": 41,
         "Defense": 40,
-        "Sp. Atk": 50,
-        "Sp. Def": 65,
+        "SpAtk": 50,
+        "SpDef": 65,
         "Speed": 65,
         "Generation": 1,
-        "Legendary": false
+        "Legendary": false,
+        "Previous": null,
+        "Next": "Ninetales"
     },
     {
         "No": 38,
@@ -563,11 +637,13 @@
         "HP": 73,
         "Attack": 76,
         "Defense": 75,
-        "Sp. Atk": 81,
-        "Sp. Def": 100,
+        "SpAtk": 81,
+        "SpDef": 100,
         "Speed": 100,
         "Generation": 1,
-        "Legendary": false
+        "Legendary": false,
+        "Previous": "Vulpix",
+        "Next": null
     },
     {
         "No": 39,
@@ -578,11 +654,13 @@
         "HP": 115,
         "Attack": 45,
         "Defense": 20,
-        "Sp. Atk": 45,
-        "Sp. Def": 25,
+        "SpAtk": 45,
+        "SpDef": 25,
         "Speed": 20,
         "Generation": 1,
-        "Legendary": false
+        "Legendary": false,
+        "Previous": null,
+        "Next": "Wigglytuff"
     },
     {
         "No": 40,
@@ -593,11 +671,13 @@
         "HP": 140,
         "Attack": 70,
         "Defense": 45,
-        "Sp. Atk": 85,
-        "Sp. Def": 50,
+        "SpAtk": 85,
+        "SpDef": 50,
         "Speed": 45,
         "Generation": 1,
-        "Legendary": false
+        "Legendary": false,
+        "Previous": "Jigglypuff",
+        "Next": null
     },
     {
         "No": 41,
@@ -608,11 +688,13 @@
         "HP": 40,
         "Attack": 45,
         "Defense": 35,
-        "Sp. Atk": 30,
-        "Sp. Def": 40,
+        "SpAtk": 30,
+        "SpDef": 40,
         "Speed": 55,
         "Generation": 1,
-        "Legendary": false
+        "Legendary": false,
+        "Previous": null,
+        "Next": "Golbat"
     },
     {
         "No": 42,
@@ -623,11 +705,13 @@
         "HP": 75,
         "Attack": 80,
         "Defense": 70,
-        "Sp. Atk": 65,
-        "Sp. Def": 75,
+        "SpAtk": 65,
+        "SpDef": 75,
         "Speed": 90,
         "Generation": 1,
-        "Legendary": false
+        "Legendary": false,
+        "Previous": "Zubat",
+        "Next": null
     },
     {
         "No": 43,
@@ -638,11 +722,13 @@
         "HP": 45,
         "Attack": 50,
         "Defense": 55,
-        "Sp. Atk": 75,
-        "Sp. Def": 65,
+        "SpAtk": 75,
+        "SpDef": 65,
         "Speed": 30,
         "Generation": 1,
-        "Legendary": false
+        "Legendary": false,
+        "Previous": null,
+        "Next": "Gloom"
     },
     {
         "No": 44,
@@ -653,11 +739,13 @@
         "HP": 60,
         "Attack": 65,
         "Defense": 70,
-        "Sp. Atk": 85,
-        "Sp. Def": 75,
+        "SpAtk": 85,
+        "SpDef": 75,
         "Speed": 40,
         "Generation": 1,
-        "Legendary": false
+        "Legendary": false,
+        "Previous": "Oddish",
+        "Next": "Vileplume"
     },
     {
         "No": 45,
@@ -668,11 +756,13 @@
         "HP": 75,
         "Attack": 80,
         "Defense": 85,
-        "Sp. Atk": 110,
-        "Sp. Def": 90,
+        "SpAtk": 110,
+        "SpDef": 90,
         "Speed": 50,
         "Generation": 1,
-        "Legendary": false
+        "Legendary": false,
+        "Previous": "Gloom",
+        "Next": null
     },
     {
         "No": 46,
@@ -683,11 +773,13 @@
         "HP": 35,
         "Attack": 70,
         "Defense": 55,
-        "Sp. Atk": 45,
-        "Sp. Def": 55,
+        "SpAtk": 45,
+        "SpDef": 55,
         "Speed": 25,
         "Generation": 1,
-        "Legendary": false
+        "Legendary": false,
+        "Previous": null,
+        "Next": "Parasect"
     },
     {
         "No": 47,
@@ -698,11 +790,13 @@
         "HP": 60,
         "Attack": 95,
         "Defense": 80,
-        "Sp. Atk": 60,
-        "Sp. Def": 80,
+        "SpAtk": 60,
+        "SpDef": 80,
         "Speed": 30,
         "Generation": 1,
-        "Legendary": false
+        "Legendary": false,
+        "Previous": "Paras",
+        "Next": null
     },
     {
         "No": 48,
@@ -713,11 +807,13 @@
         "HP": 60,
         "Attack": 55,
         "Defense": 50,
-        "Sp. Atk": 40,
-        "Sp. Def": 55,
+        "SpAtk": 40,
+        "SpDef": 55,
         "Speed": 45,
         "Generation": 1,
-        "Legendary": false
+        "Legendary": false,
+        "Previous": null,
+        "Next": "Venomoth"
     },
     {
         "No": 49,
@@ -728,11 +824,13 @@
         "HP": 70,
         "Attack": 65,
         "Defense": 60,
-        "Sp. Atk": 90,
-        "Sp. Def": 75,
+        "SpAtk": 90,
+        "SpDef": 75,
         "Speed": 90,
         "Generation": 1,
-        "Legendary": false
+        "Legendary": false,
+        "Previous": "Venonat",
+        "Next": null
     },
     {
         "No": 50,
@@ -743,11 +841,13 @@
         "HP": 10,
         "Attack": 55,
         "Defense": 25,
-        "Sp. Atk": 35,
-        "Sp. Def": 45,
+        "SpAtk": 35,
+        "SpDef": 45,
         "Speed": 95,
         "Generation": 1,
-        "Legendary": false
+        "Legendary": false,
+        "Previous": null,
+        "Next": "Dugtrio"
     },
     {
         "No": 51,
@@ -758,11 +858,13 @@
         "HP": 35,
         "Attack": 80,
         "Defense": 50,
-        "Sp. Atk": 50,
-        "Sp. Def": 70,
+        "SpAtk": 50,
+        "SpDef": 70,
         "Speed": 120,
         "Generation": 1,
-        "Legendary": false
+        "Legendary": false,
+        "Previous": "Diglett",
+        "Next": null
     },
     {
         "No": 52,
@@ -773,11 +875,13 @@
         "HP": 40,
         "Attack": 45,
         "Defense": 35,
-        "Sp. Atk": 40,
-        "Sp. Def": 40,
+        "SpAtk": 40,
+        "SpDef": 40,
         "Speed": 90,
         "Generation": 1,
-        "Legendary": false
+        "Legendary": false,
+        "Previous": null,
+        "Next": "Persian"
     },
     {
         "No": 53,
@@ -788,11 +892,13 @@
         "HP": 65,
         "Attack": 70,
         "Defense": 60,
-        "Sp. Atk": 65,
-        "Sp. Def": 65,
+        "SpAtk": 65,
+        "SpDef": 65,
         "Speed": 115,
         "Generation": 1,
-        "Legendary": false
+        "Legendary": false,
+        "Previous": "Meowth",
+        "Next": null
     },
     {
         "No": 54,
@@ -803,11 +909,13 @@
         "HP": 50,
         "Attack": 52,
         "Defense": 48,
-        "Sp. Atk": 65,
-        "Sp. Def": 50,
+        "SpAtk": 65,
+        "SpDef": 50,
         "Speed": 55,
         "Generation": 1,
-        "Legendary": false
+        "Legendary": false,
+        "Previous": null,
+        "Next": "Golduck"
     },
     {
         "No": 55,
@@ -818,11 +926,13 @@
         "HP": 80,
         "Attack": 82,
         "Defense": 78,
-        "Sp. Atk": 95,
-        "Sp. Def": 80,
+        "SpAtk": 95,
+        "SpDef": 80,
         "Speed": 85,
         "Generation": 1,
-        "Legendary": false
+        "Legendary": false,
+        "Previous": "Psyduck",
+        "Next": null
     },
     {
         "No": 56,
@@ -833,11 +943,13 @@
         "HP": 40,
         "Attack": 80,
         "Defense": 35,
-        "Sp. Atk": 35,
-        "Sp. Def": 45,
+        "SpAtk": 35,
+        "SpDef": 45,
         "Speed": 70,
         "Generation": 1,
-        "Legendary": false
+        "Legendary": false,
+        "Previous": null,
+        "Next": "Primeape"
     },
     {
         "No": 57,
@@ -848,11 +960,13 @@
         "HP": 65,
         "Attack": 105,
         "Defense": 60,
-        "Sp. Atk": 60,
-        "Sp. Def": 70,
+        "SpAtk": 60,
+        "SpDef": 70,
         "Speed": 95,
         "Generation": 1,
-        "Legendary": false
+        "Legendary": false,
+        "Previous": "Mankey",
+        "Next": null
     },
     {
         "No": 58,
@@ -863,11 +977,13 @@
         "HP": 55,
         "Attack": 70,
         "Defense": 45,
-        "Sp. Atk": 70,
-        "Sp. Def": 50,
+        "SpAtk": 70,
+        "SpDef": 50,
         "Speed": 60,
         "Generation": 1,
-        "Legendary": false
+        "Legendary": false,
+        "Previous": null,
+        "Next": "Arcanine"
     },
     {
         "No": 59,
@@ -878,11 +994,13 @@
         "HP": 90,
         "Attack": 110,
         "Defense": 80,
-        "Sp. Atk": 100,
-        "Sp. Def": 80,
+        "SpAtk": 100,
+        "SpDef": 80,
         "Speed": 95,
         "Generation": 1,
-        "Legendary": false
+        "Legendary": false,
+        "Previous": "Growlithe",
+        "Next": null
     },
     {
         "No": 60,
@@ -893,11 +1011,13 @@
         "HP": 40,
         "Attack": 50,
         "Defense": 40,
-        "Sp. Atk": 40,
-        "Sp. Def": 40,
+        "SpAtk": 40,
+        "SpDef": 40,
         "Speed": 90,
         "Generation": 1,
-        "Legendary": false
+        "Legendary": false,
+        "Previous": null,
+        "Next": "Poliwhirl"
     },
     {
         "No": 61,
@@ -908,11 +1028,13 @@
         "HP": 65,
         "Attack": 65,
         "Defense": 65,
-        "Sp. Atk": 50,
-        "Sp. Def": 50,
+        "SpAtk": 50,
+        "SpDef": 50,
         "Speed": 90,
         "Generation": 1,
-        "Legendary": false
+        "Legendary": false,
+        "Previous": "Poliwag",
+        "Next": "Poliwrath"
     },
     {
         "No": 62,
@@ -923,11 +1045,13 @@
         "HP": 90,
         "Attack": 95,
         "Defense": 95,
-        "Sp. Atk": 70,
-        "Sp. Def": 90,
+        "SpAtk": 70,
+        "SpDef": 90,
         "Speed": 70,
         "Generation": 1,
-        "Legendary": false
+        "Legendary": false,
+        "Previous": "Poliwhirl",
+        "Next": null
     },
     {
         "No": 63,
@@ -938,11 +1062,13 @@
         "HP": 25,
         "Attack": 20,
         "Defense": 15,
-        "Sp. Atk": 105,
-        "Sp. Def": 55,
+        "SpAtk": 105,
+        "SpDef": 55,
         "Speed": 90,
         "Generation": 1,
-        "Legendary": false
+        "Legendary": false,
+        "Previous": null,
+        "Next": "Kadabra"
     },
     {
         "No": 64,
@@ -953,11 +1079,13 @@
         "HP": 40,
         "Attack": 35,
         "Defense": 30,
-        "Sp. Atk": 120,
-        "Sp. Def": 70,
+        "SpAtk": 120,
+        "SpDef": 70,
         "Speed": 105,
         "Generation": 1,
-        "Legendary": false
+        "Legendary": false,
+        "Previous": "Abra",
+        "Next": "Alakazam"
     },
     {
         "No": 65,
@@ -968,11 +1096,13 @@
         "HP": 55,
         "Attack": 50,
         "Defense": 45,
-        "Sp. Atk": 135,
-        "Sp. Def": 95,
+        "SpAtk": 135,
+        "SpDef": 95,
         "Speed": 120,
         "Generation": 1,
-        "Legendary": false
+        "Legendary": false,
+        "Previous": "Kadabra",
+        "Next": null
     },
     {
         "No": 66,
@@ -983,11 +1113,13 @@
         "HP": 70,
         "Attack": 80,
         "Defense": 50,
-        "Sp. Atk": 35,
-        "Sp. Def": 35,
+        "SpAtk": 35,
+        "SpDef": 35,
         "Speed": 35,
         "Generation": 1,
-        "Legendary": false
+        "Legendary": false,
+        "Previous": null,
+        "Next": "Machoke"
     },
     {
         "No": 67,
@@ -998,11 +1130,13 @@
         "HP": 80,
         "Attack": 100,
         "Defense": 70,
-        "Sp. Atk": 50,
-        "Sp. Def": 60,
+        "SpAtk": 50,
+        "SpDef": 60,
         "Speed": 45,
         "Generation": 1,
-        "Legendary": false
+        "Legendary": false,
+        "Previous": "Machop",
+        "Next": "Machamp"
     },
     {
         "No": 68,
@@ -1013,11 +1147,13 @@
         "HP": 90,
         "Attack": 130,
         "Defense": 80,
-        "Sp. Atk": 65,
-        "Sp. Def": 85,
+        "SpAtk": 65,
+        "SpDef": 85,
         "Speed": 55,
         "Generation": 1,
-        "Legendary": false
+        "Legendary": false,
+        "Previous": "Machoke",
+        "Next": null
     },
     {
         "No": 69,
@@ -1028,11 +1164,13 @@
         "HP": 50,
         "Attack": 75,
         "Defense": 35,
-        "Sp. Atk": 70,
-        "Sp. Def": 30,
+        "SpAtk": 70,
+        "SpDef": 30,
         "Speed": 40,
         "Generation": 1,
-        "Legendary": false
+        "Legendary": false,
+        "Previous": null,
+        "Next": "Weepinbell"
     },
     {
         "No": 70,
@@ -1043,11 +1181,13 @@
         "HP": 65,
         "Attack": 90,
         "Defense": 50,
-        "Sp. Atk": 85,
-        "Sp. Def": 45,
+        "SpAtk": 85,
+        "SpDef": 45,
         "Speed": 55,
         "Generation": 1,
-        "Legendary": false
+        "Legendary": false,
+        "Previous": "Bellsprout",
+        "Next": "Victreebel"
     },
     {
         "No": 71,
@@ -1058,11 +1198,13 @@
         "HP": 80,
         "Attack": 105,
         "Defense": 65,
-        "Sp. Atk": 100,
-        "Sp. Def": 70,
+        "SpAtk": 100,
+        "SpDef": 70,
         "Speed": 70,
         "Generation": 1,
-        "Legendary": false
+        "Legendary": false,
+        "Previous": "Weepinbell",
+        "Next": null
     },
     {
         "No": 72,
@@ -1073,11 +1215,13 @@
         "HP": 40,
         "Attack": 40,
         "Defense": 35,
-        "Sp. Atk": 50,
-        "Sp. Def": 100,
+        "SpAtk": 50,
+        "SpDef": 100,
         "Speed": 70,
         "Generation": 1,
-        "Legendary": false
+        "Legendary": false,
+        "Previous": null,
+        "Next": "Tentacruel"
     },
     {
         "No": 73,
@@ -1088,11 +1232,13 @@
         "HP": 80,
         "Attack": 70,
         "Defense": 65,
-        "Sp. Atk": 80,
-        "Sp. Def": 120,
+        "SpAtk": 80,
+        "SpDef": 120,
         "Speed": 100,
         "Generation": 1,
-        "Legendary": false
+        "Legendary": false,
+        "Previous": "Tentacool",
+        "Next": null
     },
     {
         "No": 74,
@@ -1103,11 +1249,13 @@
         "HP": 40,
         "Attack": 80,
         "Defense": 100,
-        "Sp. Atk": 30,
-        "Sp. Def": 30,
+        "SpAtk": 30,
+        "SpDef": 30,
         "Speed": 20,
         "Generation": 1,
-        "Legendary": false
+        "Legendary": false,
+        "Previous": null,
+        "Next": "Graveler"
     },
     {
         "No": 75,
@@ -1118,11 +1266,13 @@
         "HP": 55,
         "Attack": 95,
         "Defense": 115,
-        "Sp. Atk": 45,
-        "Sp. Def": 45,
+        "SpAtk": 45,
+        "SpDef": 45,
         "Speed": 35,
         "Generation": 1,
-        "Legendary": false
+        "Legendary": false,
+        "Previous": "Geodude",
+        "Next": "Golem"
     },
     {
         "No": 76,
@@ -1133,11 +1283,13 @@
         "HP": 80,
         "Attack": 120,
         "Defense": 130,
-        "Sp. Atk": 55,
-        "Sp. Def": 65,
+        "SpAtk": 55,
+        "SpDef": 65,
         "Speed": 45,
         "Generation": 1,
-        "Legendary": false
+        "Legendary": false,
+        "Previous": "Graveler",
+        "Next": null
     },
     {
         "No": 77,
@@ -1148,11 +1300,13 @@
         "HP": 50,
         "Attack": 85,
         "Defense": 55,
-        "Sp. Atk": 65,
-        "Sp. Def": 65,
+        "SpAtk": 65,
+        "SpDef": 65,
         "Speed": 90,
         "Generation": 1,
-        "Legendary": false
+        "Legendary": false,
+        "Previous": null,
+        "Next": "Rapidash"
     },
     {
         "No": 78,
@@ -1163,11 +1317,13 @@
         "HP": 65,
         "Attack": 100,
         "Defense": 70,
-        "Sp. Atk": 80,
-        "Sp. Def": 80,
+        "SpAtk": 80,
+        "SpDef": 80,
         "Speed": 105,
         "Generation": 1,
-        "Legendary": false
+        "Legendary": false,
+        "Previous": "Ponyta",
+        "Next": null
     },
     {
         "No": 79,
@@ -1178,11 +1334,13 @@
         "HP": 90,
         "Attack": 65,
         "Defense": 65,
-        "Sp. Atk": 40,
-        "Sp. Def": 40,
+        "SpAtk": 40,
+        "SpDef": 40,
         "Speed": 15,
         "Generation": 1,
-        "Legendary": false
+        "Legendary": false,
+        "Previous": null,
+        "Next": "Slowbro"
     },
     {
         "No": 80,
@@ -1193,11 +1351,13 @@
         "HP": 95,
         "Attack": 75,
         "Defense": 110,
-        "Sp. Atk": 100,
-        "Sp. Def": 80,
+        "SpAtk": 100,
+        "SpDef": 80,
         "Speed": 30,
         "Generation": 1,
-        "Legendary": false
+        "Legendary": false,
+        "Previous": "Slowpoke",
+        "Next": null
     },
     {
         "No": 81,
@@ -1208,11 +1368,13 @@
         "HP": 25,
         "Attack": 35,
         "Defense": 70,
-        "Sp. Atk": 95,
-        "Sp. Def": 55,
+        "SpAtk": 95,
+        "SpDef": 55,
         "Speed": 45,
         "Generation": 1,
-        "Legendary": false
+        "Legendary": false,
+        "Previous": null,
+        "Next": "Magneton"
     },
     {
         "No": 82,
@@ -1223,11 +1385,13 @@
         "HP": 50,
         "Attack": 60,
         "Defense": 95,
-        "Sp. Atk": 120,
-        "Sp. Def": 70,
+        "SpAtk": 120,
+        "SpDef": 70,
         "Speed": 70,
         "Generation": 1,
-        "Legendary": false
+        "Legendary": false,
+        "Previous": "Magnemite",
+        "Next": null
     },
     {
         "No": 83,
@@ -1238,11 +1402,13 @@
         "HP": 52,
         "Attack": 65,
         "Defense": 55,
-        "Sp. Atk": 58,
-        "Sp. Def": 62,
+        "SpAtk": 58,
+        "SpDef": 62,
         "Speed": 60,
         "Generation": 1,
-        "Legendary": false
+        "Legendary": false,
+        "Previous": null,
+        "Next": null
     },
     {
         "No": 84,
@@ -1253,11 +1419,13 @@
         "HP": 35,
         "Attack": 85,
         "Defense": 45,
-        "Sp. Atk": 35,
-        "Sp. Def": 35,
+        "SpAtk": 35,
+        "SpDef": 35,
         "Speed": 75,
         "Generation": 1,
-        "Legendary": false
+        "Legendary": false,
+        "Previous": null,
+        "Next": "Dodrio"
     },
     {
         "No": 85,
@@ -1268,11 +1436,13 @@
         "HP": 60,
         "Attack": 110,
         "Defense": 70,
-        "Sp. Atk": 60,
-        "Sp. Def": 60,
+        "SpAtk": 60,
+        "SpDef": 60,
         "Speed": 100,
         "Generation": 1,
-        "Legendary": false
+        "Legendary": false,
+        "Previous": "Doduo",
+        "Next": null
     },
     {
         "No": 86,
@@ -1283,11 +1453,13 @@
         "HP": 65,
         "Attack": 45,
         "Defense": 55,
-        "Sp. Atk": 45,
-        "Sp. Def": 70,
+        "SpAtk": 45,
+        "SpDef": 70,
         "Speed": 45,
         "Generation": 1,
-        "Legendary": false
+        "Legendary": false,
+        "Previous": null,
+        "Next": "Dewgong"
     },
     {
         "No": 87,
@@ -1298,11 +1470,13 @@
         "HP": 90,
         "Attack": 70,
         "Defense": 80,
-        "Sp. Atk": 70,
-        "Sp. Def": 95,
+        "SpAtk": 70,
+        "SpDef": 95,
         "Speed": 70,
         "Generation": 1,
-        "Legendary": false
+        "Legendary": false,
+        "Previous": "Seel",
+        "Next": null
     },
     {
         "No": 88,
@@ -1313,11 +1487,13 @@
         "HP": 80,
         "Attack": 80,
         "Defense": 50,
-        "Sp. Atk": 40,
-        "Sp. Def": 50,
+        "SpAtk": 40,
+        "SpDef": 50,
         "Speed": 25,
         "Generation": 1,
-        "Legendary": false
+        "Legendary": false,
+        "Previous": null,
+        "Next": "Muk"
     },
     {
         "No": 89,
@@ -1328,11 +1504,13 @@
         "HP": 105,
         "Attack": 105,
         "Defense": 75,
-        "Sp. Atk": 65,
-        "Sp. Def": 100,
+        "SpAtk": 65,
+        "SpDef": 100,
         "Speed": 50,
         "Generation": 1,
-        "Legendary": false
+        "Legendary": false,
+        "Previous": "Grimer",
+        "Next": null
     },
     {
         "No": 90,
@@ -1343,11 +1521,13 @@
         "HP": 30,
         "Attack": 65,
         "Defense": 100,
-        "Sp. Atk": 45,
-        "Sp. Def": 25,
+        "SpAtk": 45,
+        "SpDef": 25,
         "Speed": 40,
         "Generation": 1,
-        "Legendary": false
+        "Legendary": false,
+        "Previous": null,
+        "Next": "Cloyster"
     },
     {
         "No": 91,
@@ -1358,11 +1538,13 @@
         "HP": 50,
         "Attack": 95,
         "Defense": 180,
-        "Sp. Atk": 85,
-        "Sp. Def": 45,
+        "SpAtk": 85,
+        "SpDef": 45,
         "Speed": 70,
         "Generation": 1,
-        "Legendary": false
+        "Legendary": false,
+        "Previous": "Shellder",
+        "Next": null
     },
     {
         "No": 92,
@@ -1373,11 +1555,13 @@
         "HP": 30,
         "Attack": 35,
         "Defense": 30,
-        "Sp. Atk": 100,
-        "Sp. Def": 35,
+        "SpAtk": 100,
+        "SpDef": 35,
         "Speed": 80,
         "Generation": 1,
-        "Legendary": false
+        "Legendary": false,
+        "Previous": null,
+        "Next": "Haunter"
     },
     {
         "No": 93,
@@ -1388,11 +1572,13 @@
         "HP": 45,
         "Attack": 50,
         "Defense": 45,
-        "Sp. Atk": 115,
-        "Sp. Def": 55,
+        "SpAtk": 115,
+        "SpDef": 55,
         "Speed": 95,
         "Generation": 1,
-        "Legendary": false
+        "Legendary": false,
+        "Previous": "Gastly",
+        "Next": "Gengar"
     },
     {
         "No": 94,
@@ -1403,11 +1589,13 @@
         "HP": 60,
         "Attack": 65,
         "Defense": 60,
-        "Sp. Atk": 130,
-        "Sp. Def": 75,
+        "SpAtk": 130,
+        "SpDef": 75,
         "Speed": 110,
         "Generation": 1,
-        "Legendary": false
+        "Legendary": false,
+        "Previous": "Haunter",
+        "Next": null
     },
     {
         "No": 95,
@@ -1418,11 +1606,13 @@
         "HP": 35,
         "Attack": 45,
         "Defense": 160,
-        "Sp. Atk": 30,
-        "Sp. Def": 45,
+        "SpAtk": 30,
+        "SpDef": 45,
         "Speed": 70,
         "Generation": 1,
-        "Legendary": false
+        "Legendary": false,
+        "Previous": null,
+        "Next": "Drowzee"
     },
     {
         "No": 96,
@@ -1433,11 +1623,13 @@
         "HP": 60,
         "Attack": 48,
         "Defense": 45,
-        "Sp. Atk": 43,
-        "Sp. Def": 90,
+        "SpAtk": 43,
+        "SpDef": 90,
         "Speed": 42,
         "Generation": 1,
-        "Legendary": false
+        "Legendary": false,
+        "Previous": null,
+        "Next": "Hypno"
     },
     {
         "No": 97,
@@ -1448,11 +1640,13 @@
         "HP": 85,
         "Attack": 73,
         "Defense": 70,
-        "Sp. Atk": 73,
-        "Sp. Def": 115,
+        "SpAtk": 73,
+        "SpDef": 115,
         "Speed": 67,
         "Generation": 1,
-        "Legendary": false
+        "Legendary": false,
+        "Previous": "Drowzee",
+        "Next": null
     },
     {
         "No": 98,
@@ -1463,11 +1657,13 @@
         "HP": 30,
         "Attack": 105,
         "Defense": 90,
-        "Sp. Atk": 25,
-        "Sp. Def": 25,
+        "SpAtk": 25,
+        "SpDef": 25,
         "Speed": 50,
         "Generation": 1,
-        "Legendary": false
+        "Legendary": false,
+        "Previous": null,
+        "Next": "Kingler"
     },
     {
         "No": 99,
@@ -1478,11 +1674,13 @@
         "HP": 55,
         "Attack": 130,
         "Defense": 115,
-        "Sp. Atk": 50,
-        "Sp. Def": 50,
+        "SpAtk": 50,
+        "SpDef": 50,
         "Speed": 75,
         "Generation": 1,
-        "Legendary": false
+        "Legendary": false,
+        "Previous": "Krabby",
+        "Next": null
     },
     {
         "No": 100,
@@ -1493,11 +1691,13 @@
         "HP": 40,
         "Attack": 30,
         "Defense": 50,
-        "Sp. Atk": 55,
-        "Sp. Def": 55,
+        "SpAtk": 55,
+        "SpDef": 55,
         "Speed": 100,
         "Generation": 1,
-        "Legendary": false
+        "Legendary": false,
+        "Previous": null,
+        "Next": "Electrode"
     },
     {
         "No": 101,
@@ -1508,11 +1708,13 @@
         "HP": 60,
         "Attack": 50,
         "Defense": 70,
-        "Sp. Atk": 80,
-        "Sp. Def": 80,
+        "SpAtk": 80,
+        "SpDef": 80,
         "Speed": 140,
         "Generation": 1,
-        "Legendary": false
+        "Legendary": false,
+        "Previous": "Voltorb",
+        "Next": null
     },
     {
         "No": 102,
@@ -1523,11 +1725,13 @@
         "HP": 60,
         "Attack": 40,
         "Defense": 80,
-        "Sp. Atk": 60,
-        "Sp. Def": 45,
+        "SpAtk": 60,
+        "SpDef": 45,
         "Speed": 40,
         "Generation": 1,
-        "Legendary": false
+        "Legendary": false,
+        "Previous": null,
+        "Next": "Exeggutor"
     },
     {
         "No": 103,
@@ -1538,11 +1742,13 @@
         "HP": 95,
         "Attack": 95,
         "Defense": 85,
-        "Sp. Atk": 125,
-        "Sp. Def": 65,
+        "SpAtk": 125,
+        "SpDef": 65,
         "Speed": 55,
         "Generation": 1,
-        "Legendary": false
+        "Legendary": false,
+        "Previous": "Exeggcute",
+        "Next": null
     },
     {
         "No": 104,
@@ -1553,11 +1759,13 @@
         "HP": 50,
         "Attack": 50,
         "Defense": 95,
-        "Sp. Atk": 40,
-        "Sp. Def": 50,
+        "SpAtk": 40,
+        "SpDef": 50,
         "Speed": 35,
         "Generation": 1,
-        "Legendary": false
+        "Legendary": false,
+        "Previous": null,
+        "Next": "Marowak"
     },
     {
         "No": 105,
@@ -1568,11 +1776,13 @@
         "HP": 60,
         "Attack": 80,
         "Defense": 110,
-        "Sp. Atk": 50,
-        "Sp. Def": 80,
+        "SpAtk": 50,
+        "SpDef": 80,
         "Speed": 45,
         "Generation": 1,
-        "Legendary": false
+        "Legendary": false,
+        "Previous": "Cubone",
+        "Next": null
     },
     {
         "No": 106,
@@ -1583,11 +1793,13 @@
         "HP": 50,
         "Attack": 120,
         "Defense": 53,
-        "Sp. Atk": 35,
-        "Sp. Def": 110,
+        "SpAtk": 35,
+        "SpDef": 110,
         "Speed": 87,
         "Generation": 1,
-        "Legendary": false
+        "Legendary": false,
+        "Previous": null,
+        "Next": null
     },
     {
         "No": 107,
@@ -1598,11 +1810,13 @@
         "HP": 50,
         "Attack": 105,
         "Defense": 79,
-        "Sp. Atk": 35,
-        "Sp. Def": 110,
+        "SpAtk": 35,
+        "SpDef": 110,
         "Speed": 76,
         "Generation": 1,
-        "Legendary": false
+        "Legendary": false,
+        "Previous": null,
+        "Next": null
     },
     {
         "No": 108,
@@ -1613,11 +1827,13 @@
         "HP": 90,
         "Attack": 55,
         "Defense": 75,
-        "Sp. Atk": 60,
-        "Sp. Def": 75,
+        "SpAtk": 60,
+        "SpDef": 75,
         "Speed": 30,
         "Generation": 1,
-        "Legendary": false
+        "Legendary": false,
+        "Previous": null,
+        "Next": null
     },
     {
         "No": 109,
@@ -1628,11 +1844,13 @@
         "HP": 40,
         "Attack": 65,
         "Defense": 95,
-        "Sp. Atk": 60,
-        "Sp. Def": 45,
+        "SpAtk": 60,
+        "SpDef": 45,
         "Speed": 35,
         "Generation": 1,
-        "Legendary": false
+        "Legendary": false,
+        "Previous": null,
+        "Next": "Weezing"
     },
     {
         "No": 110,
@@ -1643,11 +1861,13 @@
         "HP": 65,
         "Attack": 90,
         "Defense": 120,
-        "Sp. Atk": 85,
-        "Sp. Def": 70,
+        "SpAtk": 85,
+        "SpDef": 70,
         "Speed": 60,
         "Generation": 1,
-        "Legendary": false
+        "Legendary": false,
+        "Previous": "Koffing",
+        "Next": null
     },
     {
         "No": 111,
@@ -1658,11 +1878,13 @@
         "HP": 80,
         "Attack": 85,
         "Defense": 95,
-        "Sp. Atk": 30,
-        "Sp. Def": 30,
+        "SpAtk": 30,
+        "SpDef": 30,
         "Speed": 25,
         "Generation": 1,
-        "Legendary": false
+        "Legendary": false,
+        "Previous": null,
+        "Next": "Rhydon"
     },
     {
         "No": 112,
@@ -1673,11 +1895,13 @@
         "HP": 105,
         "Attack": 130,
         "Defense": 120,
-        "Sp. Atk": 45,
-        "Sp. Def": 45,
+        "SpAtk": 45,
+        "SpDef": 45,
         "Speed": 40,
         "Generation": 1,
-        "Legendary": false
+        "Legendary": false,
+        "Previous": "Rhyhorn",
+        "Next": null
     },
     {
         "No": 113,
@@ -1688,11 +1912,13 @@
         "HP": 250,
         "Attack": 5,
         "Defense": 5,
-        "Sp. Atk": 35,
-        "Sp. Def": 105,
+        "SpAtk": 35,
+        "SpDef": 105,
         "Speed": 50,
         "Generation": 1,
-        "Legendary": false
+        "Legendary": false,
+        "Previous": null,
+        "Next": null
     },
     {
         "No": 114,
@@ -1703,11 +1929,13 @@
         "HP": 65,
         "Attack": 55,
         "Defense": 115,
-        "Sp. Atk": 100,
-        "Sp. Def": 40,
+        "SpAtk": 100,
+        "SpDef": 40,
         "Speed": 60,
         "Generation": 1,
-        "Legendary": false
+        "Legendary": false,
+        "Previous": null,
+        "Next": null
     },
     {
         "No": 115,
@@ -1718,11 +1946,13 @@
         "HP": 105,
         "Attack": 95,
         "Defense": 80,
-        "Sp. Atk": 40,
-        "Sp. Def": 80,
+        "SpAtk": 40,
+        "SpDef": 80,
         "Speed": 90,
         "Generation": 1,
-        "Legendary": false
+        "Legendary": false,
+        "Previous": null,
+        "Next": null
     },
     {
         "No": 116,
@@ -1733,11 +1963,13 @@
         "HP": 30,
         "Attack": 40,
         "Defense": 70,
-        "Sp. Atk": 70,
-        "Sp. Def": 25,
+        "SpAtk": 70,
+        "SpDef": 25,
         "Speed": 60,
         "Generation": 1,
-        "Legendary": false
+        "Legendary": false,
+        "Previous": null,
+        "Next": "Seadra"
     },
     {
         "No": 117,
@@ -1748,11 +1980,13 @@
         "HP": 55,
         "Attack": 65,
         "Defense": 95,
-        "Sp. Atk": 95,
-        "Sp. Def": 45,
+        "SpAtk": 95,
+        "SpDef": 45,
         "Speed": 85,
         "Generation": 1,
-        "Legendary": false
+        "Legendary": false,
+        "Previous": "Horsea",
+        "Next": null
     },
     {
         "No": 118,
@@ -1763,11 +1997,13 @@
         "HP": 45,
         "Attack": 67,
         "Defense": 60,
-        "Sp. Atk": 35,
-        "Sp. Def": 50,
+        "SpAtk": 35,
+        "SpDef": 50,
         "Speed": 63,
         "Generation": 1,
-        "Legendary": false
+        "Legendary": false,
+        "Previous": null,
+        "Next": "Seaking"
     },
     {
         "No": 119,
@@ -1778,11 +2014,13 @@
         "HP": 80,
         "Attack": 92,
         "Defense": 65,
-        "Sp. Atk": 65,
-        "Sp. Def": 80,
+        "SpAtk": 65,
+        "SpDef": 80,
         "Speed": 68,
         "Generation": 1,
-        "Legendary": false
+        "Legendary": false,
+        "Previous": "Goldeen",
+        "Next": null
     },
     {
         "No": 120,
@@ -1793,11 +2031,13 @@
         "HP": 30,
         "Attack": 45,
         "Defense": 55,
-        "Sp. Atk": 70,
-        "Sp. Def": 55,
+        "SpAtk": 70,
+        "SpDef": 55,
         "Speed": 85,
         "Generation": 1,
-        "Legendary": false
+        "Legendary": false,
+        "Previous": null,
+        "Next": "Starmie"
     },
     {
         "No": 121,
@@ -1808,11 +2048,13 @@
         "HP": 60,
         "Attack": 75,
         "Defense": 85,
-        "Sp. Atk": 100,
-        "Sp. Def": 85,
+        "SpAtk": 100,
+        "SpDef": 85,
         "Speed": 115,
         "Generation": 1,
-        "Legendary": false
+        "Legendary": false,
+        "Previous": "Staryu",
+        "Next": null
     },
     {
         "No": 122,
@@ -1823,11 +2065,13 @@
         "HP": 40,
         "Attack": 45,
         "Defense": 65,
-        "Sp. Atk": 100,
-        "Sp. Def": 120,
+        "SpAtk": 100,
+        "SpDef": 120,
         "Speed": 90,
         "Generation": 1,
-        "Legendary": false
+        "Legendary": false,
+        "Previous": null,
+        "Next": null
     },
     {
         "No": 123,
@@ -1838,11 +2082,13 @@
         "HP": 70,
         "Attack": 110,
         "Defense": 80,
-        "Sp. Atk": 55,
-        "Sp. Def": 80,
+        "SpAtk": 55,
+        "SpDef": 80,
         "Speed": 105,
         "Generation": 1,
-        "Legendary": false
+        "Legendary": false,
+        "Previous": null,
+        "Next": null
     },
     {
         "No": 124,
@@ -1853,11 +2099,13 @@
         "HP": 65,
         "Attack": 50,
         "Defense": 35,
-        "Sp. Atk": 115,
-        "Sp. Def": 95,
+        "SpAtk": 115,
+        "SpDef": 95,
         "Speed": 95,
         "Generation": 1,
-        "Legendary": false
+        "Legendary": false,
+        "Previous": null,
+        "Next": null
     },
     {
         "No": 125,
@@ -1868,11 +2116,13 @@
         "HP": 65,
         "Attack": 83,
         "Defense": 57,
-        "Sp. Atk": 95,
-        "Sp. Def": 85,
+        "SpAtk": 95,
+        "SpDef": 85,
         "Speed": 105,
         "Generation": 1,
-        "Legendary": false
+        "Legendary": false,
+        "Previous": null,
+        "Next": null
     },
     {
         "No": 126,
@@ -1883,11 +2133,13 @@
         "HP": 65,
         "Attack": 95,
         "Defense": 57,
-        "Sp. Atk": 100,
-        "Sp. Def": 85,
+        "SpAtk": 100,
+        "SpDef": 85,
         "Speed": 93,
         "Generation": 1,
-        "Legendary": false
+        "Legendary": false,
+        "Previous": null,
+        "Next": null
     },
     {
         "No": 127,
@@ -1898,11 +2150,13 @@
         "HP": 65,
         "Attack": 125,
         "Defense": 100,
-        "Sp. Atk": 55,
-        "Sp. Def": 70,
+        "SpAtk": 55,
+        "SpDef": 70,
         "Speed": 85,
         "Generation": 1,
-        "Legendary": false
+        "Legendary": false,
+        "Previous": null,
+        "Next": null
     },
     {
         "No": 128,
@@ -1913,11 +2167,13 @@
         "HP": 75,
         "Attack": 100,
         "Defense": 95,
-        "Sp. Atk": 40,
-        "Sp. Def": 70,
+        "SpAtk": 40,
+        "SpDef": 70,
         "Speed": 110,
         "Generation": 1,
-        "Legendary": false
+        "Legendary": false,
+        "Previous": null,
+        "Next": null
     },
     {
         "No": 129,
@@ -1928,11 +2184,13 @@
         "HP": 20,
         "Attack": 10,
         "Defense": 55,
-        "Sp. Atk": 15,
-        "Sp. Def": 20,
+        "SpAtk": 15,
+        "SpDef": 20,
         "Speed": 80,
         "Generation": 1,
-        "Legendary": false
+        "Legendary": false,
+        "Previous": null,
+        "Next": "Gyarados"
     },
     {
         "No": 130,
@@ -1943,11 +2201,13 @@
         "HP": 95,
         "Attack": 125,
         "Defense": 79,
-        "Sp. Atk": 60,
-        "Sp. Def": 100,
+        "SpAtk": 60,
+        "SpDef": 100,
         "Speed": 81,
         "Generation": 1,
-        "Legendary": false
+        "Legendary": false,
+        "Previous": "Magikarp",
+        "Next": null
     },
     {
         "No": 131,
@@ -1958,11 +2218,13 @@
         "HP": 130,
         "Attack": 85,
         "Defense": 80,
-        "Sp. Atk": 85,
-        "Sp. Def": 95,
+        "SpAtk": 85,
+        "SpDef": 95,
         "Speed": 60,
         "Generation": 1,
-        "Legendary": false
+        "Legendary": false,
+        "Previous": null,
+        "Next": null
     },
     {
         "No": 132,
@@ -1973,11 +2235,13 @@
         "HP": 48,
         "Attack": 48,
         "Defense": 48,
-        "Sp. Atk": 48,
-        "Sp. Def": 48,
+        "SpAtk": 48,
+        "SpDef": 48,
         "Speed": 48,
         "Generation": 1,
-        "Legendary": false
+        "Legendary": false,
+        "Previous": null,
+        "Next": null
     },
     {
         "No": 133,
@@ -1988,11 +2252,13 @@
         "HP": 55,
         "Attack": 55,
         "Defense": 50,
-        "Sp. Atk": 45,
-        "Sp. Def": 65,
+        "SpAtk": 45,
+        "SpDef": 65,
         "Speed": 55,
         "Generation": 1,
-        "Legendary": false
+        "Legendary": false,
+        "Previous": null,
+        "Next": "Vaporeon"
     },
     {
         "No": 134,
@@ -2003,11 +2269,13 @@
         "HP": 130,
         "Attack": 65,
         "Defense": 60,
-        "Sp. Atk": 110,
-        "Sp. Def": 95,
+        "SpAtk": 110,
+        "SpDef": 95,
         "Speed": 65,
         "Generation": 1,
-        "Legendary": false
+        "Legendary": false,
+        "Previous": "Eevee",
+        "Next": "Jolteon"
     },
     {
         "No": 135,
@@ -2018,11 +2286,13 @@
         "HP": 65,
         "Attack": 65,
         "Defense": 60,
-        "Sp. Atk": 110,
-        "Sp. Def": 95,
+        "SpAtk": 110,
+        "SpDef": 95,
         "Speed": 130,
         "Generation": 1,
-        "Legendary": false
+        "Legendary": false,
+        "Previous": "Eevee",
+        "Next": null
     },
     {
         "No": 136,
@@ -2033,11 +2303,13 @@
         "HP": 65,
         "Attack": 130,
         "Defense": 60,
-        "Sp. Atk": 95,
-        "Sp. Def": 110,
+        "SpAtk": 95,
+        "SpDef": 110,
         "Speed": 65,
         "Generation": 1,
-        "Legendary": false
+        "Legendary": false,
+        "Previous": "Eevee",
+        "Next": null
     },
     {
         "No": 137,
@@ -2048,11 +2320,13 @@
         "HP": 65,
         "Attack": 60,
         "Defense": 70,
-        "Sp. Atk": 85,
-        "Sp. Def": 75,
+        "SpAtk": 85,
+        "SpDef": 75,
         "Speed": 40,
         "Generation": 1,
-        "Legendary": false
+        "Legendary": false,
+        "Previous": null,
+        "Next": null
     },
     {
         "No": 138,
@@ -2063,11 +2337,13 @@
         "HP": 35,
         "Attack": 40,
         "Defense": 100,
-        "Sp. Atk": 90,
-        "Sp. Def": 55,
+        "SpAtk": 90,
+        "SpDef": 55,
         "Speed": 35,
         "Generation": 1,
-        "Legendary": false
+        "Legendary": false,
+        "Previous": null,
+        "Next": "Omastar"
     },
     {
         "No": 139,
@@ -2078,11 +2354,13 @@
         "HP": 70,
         "Attack": 60,
         "Defense": 125,
-        "Sp. Atk": 115,
-        "Sp. Def": 70,
+        "SpAtk": 115,
+        "SpDef": 70,
         "Speed": 55,
         "Generation": 1,
-        "Legendary": false
+        "Legendary": false,
+        "Previous": "Omanyte",
+        "Next": null
     },
     {
         "No": 140,
@@ -2093,11 +2371,13 @@
         "HP": 30,
         "Attack": 80,
         "Defense": 90,
-        "Sp. Atk": 55,
-        "Sp. Def": 45,
+        "SpAtk": 55,
+        "SpDef": 45,
         "Speed": 55,
         "Generation": 1,
-        "Legendary": false
+        "Legendary": false,
+        "Previous": null,
+        "Next": "Kabutops"
     },
     {
         "No": 141,
@@ -2108,11 +2388,13 @@
         "HP": 60,
         "Attack": 115,
         "Defense": 105,
-        "Sp. Atk": 65,
-        "Sp. Def": 70,
+        "SpAtk": 65,
+        "SpDef": 70,
         "Speed": 80,
         "Generation": 1,
-        "Legendary": false
+        "Legendary": false,
+        "Previous": "Kabuto",
+        "Next": null
     },
     {
         "No": 142,
@@ -2123,11 +2405,13 @@
         "HP": 80,
         "Attack": 105,
         "Defense": 65,
-        "Sp. Atk": 60,
-        "Sp. Def": 75,
+        "SpAtk": 60,
+        "SpDef": 75,
         "Speed": 130,
         "Generation": 1,
-        "Legendary": false
+        "Legendary": false,
+        "Previous": null,
+        "Next": null
     },
     {
         "No": 143,
@@ -2138,11 +2422,13 @@
         "HP": 160,
         "Attack": 110,
         "Defense": 65,
-        "Sp. Atk": 65,
-        "Sp. Def": 110,
+        "SpAtk": 65,
+        "SpDef": 110,
         "Speed": 30,
         "Generation": 1,
-        "Legendary": false
+        "Legendary": false,
+        "Previous": null,
+        "Next": null
     },
     {
         "No": 144,
@@ -2153,11 +2439,13 @@
         "HP": 90,
         "Attack": 85,
         "Defense": 100,
-        "Sp. Atk": 95,
-        "Sp. Def": 125,
+        "SpAtk": 95,
+        "SpDef": 125,
         "Speed": 85,
         "Generation": 1,
-        "Legendary": true
+        "Legendary": true,
+        "Previous": null,
+        "Next": null
     },
     {
         "No": 145,
@@ -2168,11 +2456,13 @@
         "HP": 90,
         "Attack": 90,
         "Defense": 85,
-        "Sp. Atk": 125,
-        "Sp. Def": 90,
+        "SpAtk": 125,
+        "SpDef": 90,
         "Speed": 100,
         "Generation": 1,
-        "Legendary": true
+        "Legendary": true,
+        "Previous": null,
+        "Next": null
     },
     {
         "No": 146,
@@ -2183,11 +2473,13 @@
         "HP": 90,
         "Attack": 100,
         "Defense": 90,
-        "Sp. Atk": 125,
-        "Sp. Def": 85,
+        "SpAtk": 125,
+        "SpDef": 85,
         "Speed": 90,
         "Generation": 1,
-        "Legendary": true
+        "Legendary": true,
+        "Previous": null,
+        "Next": null
     },
     {
         "No": 147,
@@ -2198,11 +2490,13 @@
         "HP": 41,
         "Attack": 64,
         "Defense": 45,
-        "Sp. Atk": 50,
-        "Sp. Def": 50,
+        "SpAtk": 50,
+        "SpDef": 50,
         "Speed": 50,
         "Generation": 1,
-        "Legendary": false
+        "Legendary": false,
+        "Previous": null,
+        "Next": "Dragonair"
     },
     {
         "No": 148,
@@ -2213,11 +2507,13 @@
         "HP": 61,
         "Attack": 84,
         "Defense": 65,
-        "Sp. Atk": 70,
-        "Sp. Def": 70,
+        "SpAtk": 70,
+        "SpDef": 70,
         "Speed": 70,
         "Generation": 1,
-        "Legendary": false
+        "Legendary": false,
+        "Previous": "Dratini",
+        "Next": "Dragonite"
     },
     {
         "No": 149,
@@ -2228,11 +2524,13 @@
         "HP": 91,
         "Attack": 134,
         "Defense": 95,
-        "Sp. Atk": 100,
-        "Sp. Def": 100,
+        "SpAtk": 100,
+        "SpDef": 100,
         "Speed": 80,
         "Generation": 1,
-        "Legendary": false
+        "Legendary": false,
+        "Previous": "Dragonair",
+        "Next": null
     },
     {
         "No": 150,
@@ -2243,11 +2541,13 @@
         "HP": 106,
         "Attack": 110,
         "Defense": 90,
-        "Sp. Atk": 154,
-        "Sp. Def": 90,
+        "SpAtk": 154,
+        "SpDef": 90,
         "Speed": 130,
         "Generation": 1,
-        "Legendary": true
+        "Legendary": true,
+        "Previous": null,
+        "Next": null
     },
     {
         "No": 151,
@@ -2258,10 +2558,12 @@
         "HP": 100,
         "Attack": 100,
         "Defense": 100,
-        "Sp. Atk": 100,
-        "Sp. Def": 100,
+        "SpAtk": 100,
+        "SpDef": 100,
         "Speed": 100,
         "Generation": 1,
-        "Legendary": false
+        "Legendary": false,
+        "Previous": null,
+        "Next": null    
     }
 ]

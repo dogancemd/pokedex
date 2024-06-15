@@ -11,14 +11,13 @@
   background-color: #7f1717;
   text-align: center;
   display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
+  flex-direction: column;
   align-content: space-around;
   align-items: center;
+  justify-content: flex-start;
   -webkit-margin-collapse: collapse;
   overflow-y: scroll;
-  height: 98vh;
-  margin: 1vh;
+  height: 87vh;
   flex: 0 0 1;
 
 }
@@ -58,4 +57,31 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+
+.Search{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  height: 13vh;
+  padding-left: 2%;
+  padding-right: 2%;
+  background-color: #7f1717;
+  color: #e01f1f;
+  outline: none;
+  
+}
+
+.SearchBar{
+  color:aliceblue;
+  border-radius: 10px;
+  box-shadow: 0 0 10px 5px #282c34;
+  background-color: transparent;
+  border: black;
+}
+
+.SearchBar:focus{
+  outline: 1px solid #360101;
 }

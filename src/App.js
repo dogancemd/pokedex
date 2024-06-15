@@ -6,22 +6,34 @@ import useWindowDimensions from './WindowResize';
 import PokemonCard from './PokemonCard';
 
 const pokemons = require('./pokemon.json');  
-console.log(pokemons[0]);
+
+
 
 const App = () => {
   const [currentPokemon, setCurrentPokemon] = useState(null);
+  const [currentPokemons, setCurrentPokemons] = useState(pokemons);
+  const filterPokemons = (filter) => {
+    setCurrentPokemons(pokemons.filter((pokemon) => {
+      return pokemon.Name.toLowerCase().includes(filter.toLowerCase());
+    }));
+  }
   const Height= useWindowDimensions().height;
   const Width=useWindowDimensions().width;
   console.log(Height);
   return (
       
       <div className="App" >
-        <div className='Pokedex' style={{width:(Width*42/100)+"px"}}>
-          {
-          pokemons.map((pokemon) => (
-            <PokedexListItem  pokemon={pokemon} onClickFunc={()=>{setCurrentPokemon(pokemon)}}/>
-            ))
-          }
+        <div style={{width:(Width*42/100)+"px",backgroundColor:"#7f1717"}}>
+          <div className='Search'>
+            <input type="text" className="SearchBar" placeholder="Search Pokemon" style={{width:"100%",height:"7vh"}} onChange={(e)=>{filterPokemons(e.target.value)}}></input>
+          </div>
+          <div className='Pokedex' >
+            {
+            currentPokemons.map((pokemon) => (
+              <PokedexListItem  pokemon={pokemon} onClickFunc={()=>{setCurrentPokemon(pokemon)}}/>
+              ))
+            }
+          </div>
         </div>
         <div>
           <img src={process.env.PUBLIC_URL + "pokedex_bubble_2.png"}
@@ -39,7 +51,7 @@ const App = () => {
           ></img>
         </div>
         <div style={{display:"flex",justifyContent:"center",alignItems:"center",flex:"1"}}>
-          {currentPokemon ? <PokemonCard pokemon={currentPokemon} Height={Height} Width={Width}/> : <h1>Select a pokemon</h1>}
+          {currentPokemon ? <PokemonCard pokemon={currentPokemon} Height={Height} Width={Width} setPokemon={setCurrentPokemon}/> : <h1>Select a pokemon</h1>}
         </div>
       
         

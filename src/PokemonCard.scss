@@ -3,7 +3,7 @@
 @font-face {
     font-family: "pixelFont";
     font-weight: 900;
-    src: local("pixelFont") url("./fonts/pixelFont.woff") format("woff");
+    src: url("./fonts/pixelFont.ttf") ;
   }
 
 .center-container{
@@ -17,13 +17,44 @@
     opacity: 0.8;
     border-radius: 20px;
     margin: 1%;
+    display: grid;
+    grid-template-rows: 30% 25% 12.5% 12.5% 20%;
     
 }
 .PokemonCardImg{
     object-fit: contain;
     //clip-path: circle(50%);
     //background-color: white;
-    width: 100%;
     aspect-ratio: 1/1;
     
+}
+
+.PokemonElementImage{
+    height: 70%;
+    border-color: black;
+    border-width: 3px;
+    aspect-ratio: 1/1;
+    object-fit: contain;
+}
+
+.PokemonStat{
+    font-size: 1em;
+}
+
+.StatBar{
+    background-color: #9ef705;
+    border-radius: 10px;
+    height: 1em;
+    align-self: flex-start;
+}
+
+.PokemonEvolutionImg{
+    background  : white;
+    clip-path:circle(50%);
+    aspect-ratio: 1/1;
+    object-fit: contain;
+}
+.PokemonEvolutionImg:hover{
+    transform: scale(1.1);
+    transition: transform 0.5s;
 }
