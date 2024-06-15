@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/https.//dogancemduran.com/pokedex/static/css/main.1e269f8c.css",
-    "main.js": "/https.//dogancemduran.com/pokedex/static/js/main.ec70b981.js",
-    "static/js/453.ac4c0547.chunk.js": "/https.//dogancemduran.com/pokedex/static/js/453.ac4c0547.chunk.js",
-    "static/media/pixelFont.ttf": "/https.//dogancemduran.com/pokedex/static/media/pixelFont.10cf96d54dcd9af0486c.ttf",
-    "index.html": "/https.//dogancemduran.com/pokedex/index.html",
-    "main.1e269f8c.css.map": "/https.//dogancemduran.com/pokedex/static/css/main.1e269f8c.css.map",
-    "main.ec70b981.js.map": "/https.//dogancemduran.com/pokedex/static/js/main.ec70b981.js.map",
-    "453.ac4c0547.chunk.js.map": "/https.//dogancemduran.com/pokedex/static/js/453.ac4c0547.chunk.js.map"
+    "main.css": "/https.//dogancemd.github.io/pokedex/static/css/main.04a95b72.css",
+    "main.js": "/https.//dogancemd.github.io/pokedex/static/js/main.ddaff19d.js",
+    "static/js/453.ac4c0547.chunk.js": "/https.//dogancemd.github.io/pokedex/static/js/453.ac4c0547.chunk.js",
+    "static/media/pixelFont.ttf": "/https.//dogancemd.github.io/pokedex/static/media/pixelFont.10cf96d54dcd9af0486c.ttf",
+    "index.html": "/https.//dogancemd.github.io/pokedex/index.html",
+    "main.04a95b72.css.map": "/https.//dogancemd.github.io/pokedex/static/css/main.04a95b72.css.map",
+    "main.ddaff19d.js.map": "/https.//dogancemd.github.io/pokedex/static/js/main.ddaff19d.js.map",
+    "453.ac4c0547.chunk.js.map": "/https.//dogancemd.github.io/pokedex/static/js/453.ac4c0547.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1e269f8c.css",
-    "static/js/main.ec70b981.js"
+    "static/css/main.04a95b72.css",
+    "static/js/main.ddaff19d.js"
   ]
 }
