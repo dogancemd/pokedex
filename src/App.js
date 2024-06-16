@@ -4,6 +4,9 @@ import PokedexListItem from './PokedexListItem';
 import { useState } from 'react';
 import useWindowDimensions from './WindowResize';
 import PokemonCard from './PokemonCard';
+//import { BrowserRouter as Router,Route } from 'react-router-dom';
+
+
 
 const pokemons = require('./pokemon.json');  
 
@@ -19,9 +22,7 @@ const App = () => {
   }
   const Height= useWindowDimensions().height;
   const Width=useWindowDimensions().width;
-  console.log(Height);
   return (
-      
       <div className="App" >
         <div style={{width:(Width*42/100)+"px",backgroundColor:"#7f1717"}}>
           <div className='Search'>
@@ -52,10 +53,7 @@ const App = () => {
         </div>
         <div style={{display:"flex",justifyContent:"center",alignItems:"center",flex:"1"}}>
           {currentPokemon ? <PokemonCard pokemon={currentPokemon} Height={Height} Width={Width} setPokemon={setCurrentPokemon}/> : <h1>Select a pokemon</h1>}
-        </div>
-      
-        
-        
+        </div>  
       </div>
   );
 }

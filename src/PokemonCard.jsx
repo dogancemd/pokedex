@@ -56,16 +56,16 @@ const PokemonCard = ({pokemon,Height,Width,setPokemon}) => {
     }
     return (
         <div>
-            <div className="PokemonCard" style={{height:(Height*0.6+"px"),width:(Width*0.40+"px"),background:BGColor}}>
+            <div className="PokemonCard" style={{height:((Height>550?Height*0.6:Height*0.8)+"px"),width:(Width*0.40+"px"),background:BGColor}}>
                 <div style={{display:"grid",gridTemplateColumns:"20% 60% 20%",backgroundColor:""}}>
                     <div className="center-container" style={{backgroundColor:"",padding:"4%",marginLeft:"4%",height:Height*0.18+"px"}}>
-                        <img className="PokemonCardImg" style={{height:"100%"}} src={process.env.PUBLIC_URL + "/img/pokemons/" + convertThePokemonName(pokemon.Name) + ".png"} alt={pokemon.Name} />
+                        <img className="PokemonCardImg" style={{}} src={process.env.PUBLIC_URL + "/img/pokemons/" + convertThePokemonName(pokemon.Name) + ".png"} alt={pokemon.Name} />
                     </div>
                     <div className="center-container" style={{textAlign:"center"}}>
-                        <h1 style={{flex:"1 1 0",fontSize:"3em"}}>{pokemon.Name}</h1>
+                        <h1 className='PokemonName' style={{}}>{pokemon.Name}</h1>
                     </div>
                     <div className="center-container" style={{flexDirection:'Column',justifyContent:"flex-start"}}>
-                        <h1 style={{flex:"1 1 0",fontSize:"2.5em",marginRight:"1em",marginTop:"0.2em"}}>{"#"+pokemon.No>100?pokemon.No:pokemon.No>10?"#0"+pokemon.No:"#00"+pokemon.No}</h1>
+                        <h1 className='PokemonNo' style={{}}>{"#"+pokemon.No>100?pokemon.No:pokemon.No>10?"#0"+pokemon.No:"#00"+pokemon.No}</h1>
                     </div>
 
                 </div>
